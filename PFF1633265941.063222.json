@@ -1,0 +1,1902 @@
+[
+  {
+    "url": "https://www.pff.com/nfl/teams/houston-texans/13/roster",
+    "name": "texans",
+    "players": [
+      {
+        "Name": "Jeff Driskel ",
+        "rating": "N/A",
+        "position": "QB #6"
+      },
+      {
+        "Name": "Deshaun Watson ",
+        "rating": "N/A",
+        "position": "QB #4"
+      },
+      {
+        "Name": "Tyrod Taylor ",
+        "rating": "75.8",
+        "position": "QB #5"
+      },
+      {
+        "Name": "Davis Mills ",
+        "rating": "43.1",
+        "position": "QB #10"
+      },
+      {
+        "Name": "Danny Amendola ",
+        "rating": "68.0",
+        "position": "WR #89"
+      },
+      {
+        "Name": "Jalen Camp ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Jordan Veasy ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Chris Moore ",
+        "rating": "60.0",
+        "position": "WR #15"
+      },
+      {
+        "Name": "Chris Conley ",
+        "rating": "57.9",
+        "position": "WR #18"
+      },
+      {
+        "Name": "Andre Roberts ",
+        "rating": "60.9",
+        "position": "WR #19"
+      },
+      {
+        "Name": "Anthony Miller ",
+        "rating": "69.6",
+        "position": "WR #3"
+      },
+      {
+        "Name": "Brandin Cooks ",
+        "rating": "81.1",
+        "position": "WR #13"
+      },
+      {
+        "Name": "Nico Collins ",
+        "rating": "60.9",
+        "position": "WR #12"
+      },
+      {
+        "Name": "Mark Ingram II ",
+        "rating": "61.8",
+        "position": "HB #2"
+      },
+      {
+        "Name": "Scottie Phillips ",
+        "rating": "N/A",
+        "position": "HB #27"
+      },
+      {
+        "Name": "Phillip Lindsay ",
+        "rating": "49.7",
+        "position": "HB #30"
+      },
+      {
+        "Name": "Rex Burkhead ",
+        "rating": "58.9",
+        "position": "HB #28"
+      },
+      {
+        "Name": "David Johnson ",
+        "rating": "61.3",
+        "position": "HB #31"
+      },
+      {
+        "Name": "Paul Quessenberry ",
+        "rating": "N/A",
+        "position": "FB #00"
+      },
+      {
+        "Name": "Antony Auclair ",
+        "rating": "69.1",
+        "position": "TE #83"
+      },
+      {
+        "Name": "Pharaoh Brown ",
+        "rating": "72.9",
+        "position": "TE #85"
+      },
+      {
+        "Name": "Jordan Akins ",
+        "rating": "51.7",
+        "position": "TE #88"
+      },
+      {
+        "Name": "Brevin Jordan ",
+        "rating": "N/A",
+        "position": "TE #9"
+      },
+      {
+        "Name": "Ryan McCollum ",
+        "rating": "N/A",
+        "position": "C #00"
+      },
+      {
+        "Name": "Justin Britt ",
+        "rating": "58.3",
+        "position": "C #68"
+      },
+      {
+        "Name": "Lane Taylor ",
+        "rating": "N/A",
+        "position": "G #00"
+      },
+      {
+        "Name": "Hjalte Froholdt ",
+        "rating": "N/A",
+        "position": "G #00"
+      },
+      {
+        "Name": "Max Scharping ",
+        "rating": "60.6",
+        "position": "G #74"
+      },
+      {
+        "Name": "Tytus Howard ",
+        "rating": "34.8",
+        "position": "G #71"
+      },
+      {
+        "Name": "Carson Green ",
+        "rating": "N/A",
+        "position": "T #00"
+      },
+      {
+        "Name": "Marcus Cannon ",
+        "rating": "64.1",
+        "position": "T #61"
+      },
+      {
+        "Name": "Justin McCray ",
+        "rating": "72.5",
+        "position": "G #64"
+      },
+      {
+        "Name": "Laremy Tunsil ",
+        "rating": "55.4",
+        "position": "T #78"
+      },
+      {
+        "Name": "Geron Christian Sr. ",
+        "rating": "51.2",
+        "position": "T #72"
+      },
+      {
+        "Name": "Charlie Heck ",
+        "rating": "58.3",
+        "position": "T #67"
+      },
+      {
+        "Name": "Cre'Von LeBlanc ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Jimmy Moreland ",
+        "rating": "N/A",
+        "position": "CB #22"
+      },
+      {
+        "Name": "Shyheim Carter ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Desmond King II ",
+        "rating": "68.2",
+        "position": "CB #25"
+      },
+      {
+        "Name": "Tremon Smith ",
+        "rating": "62.3",
+        "position": "CB #24"
+      },
+      {
+        "Name": "Terrance Mitchell ",
+        "rating": "57.8",
+        "position": "CB #39"
+      },
+      {
+        "Name": "Tavierre Thomas ",
+        "rating": "66.6",
+        "position": "CB #37"
+      },
+      {
+        "Name": "Vernon Hargreaves III ",
+        "rating": "56.0",
+        "position": "CB #26"
+      },
+      {
+        "Name": "Grayland Arnold ",
+        "rating": "N/A",
+        "position": "S #00"
+      },
+      {
+        "Name": "Jonathan Owens ",
+        "rating": "N/A",
+        "position": "S #00"
+      },
+      {
+        "Name": "Cameron Johnston ",
+        "rating": "65.7",
+        "position": "P #11"
+      },
+      {
+        "Name": "Terrence Brooks ",
+        "rating": "63.7",
+        "position": "S #8"
+      },
+      {
+        "Name": "Lonnie Johnson Jr. ",
+        "rating": "71.0",
+        "position": "S #1"
+      },
+      {
+        "Name": "A.J. Moore ",
+        "rating": "N/A",
+        "position": "S #33"
+      },
+      {
+        "Name": "Justin Reid ",
+        "rating": "69.3",
+        "position": "S #20"
+      },
+      {
+        "Name": "Eric Murray ",
+        "rating": "40.5",
+        "position": "S #23"
+      },
+      {
+        "Name": "Joe Thomas ",
+        "rating": "76.2",
+        "position": "LB #48"
+      },
+      {
+        "Name": "Tae Davis ",
+        "rating": "N/A",
+        "position": "LB #00"
+      },
+      {
+        "Name": "Kamu Grugier-Hill ",
+        "rating": "39.0",
+        "position": "LB #51"
+      },
+      {
+        "Name": "Kevin Pierre-Louis ",
+        "rating": "N/A",
+        "position": "LB #57"
+      },
+      {
+        "Name": "Christian Kirksey ",
+        "rating": "60.6",
+        "position": "LB #58"
+      },
+      {
+        "Name": "Zach Cunningham ",
+        "rating": "36.3",
+        "position": "LB #41"
+      },
+      {
+        "Name": "Neville Hewitt ",
+        "rating": "N/A",
+        "position": "LB #43"
+      },
+      {
+        "Name": "Garret Wallow ",
+        "rating": "32.1",
+        "position": "ED #32"
+      },
+      {
+        "Name": "Hardy Nickerson ",
+        "rating": "N/A",
+        "position": "LB #56"
+      },
+      {
+        "Name": "Jaleel Johnson ",
+        "rating": "46.7",
+        "position": "DI #93"
+      },
+      {
+        "Name": "Vincent Taylor ",
+        "rating": "53.6",
+        "position": "DI #96"
+      },
+      {
+        "Name": "DeMarcus Walker ",
+        "rating": "63.6",
+        "position": "ED #55"
+      },
+      {
+        "Name": "Maliek Collins ",
+        "rating": "66.5",
+        "position": "DI #97"
+      },
+      {
+        "Name": "Ross Blacklock ",
+        "rating": "72.4",
+        "position": "DI #90"
+      },
+      {
+        "Name": "Roy Lopez ",
+        "rating": "56.0",
+        "position": "DI #91"
+      },
+      {
+        "Name": "Derek Rivers ",
+        "rating": "N/A",
+        "position": "ED #00"
+      },
+      {
+        "Name": "Jordan Jenkins ",
+        "rating": "52.5",
+        "position": "ED #50"
+      },
+      {
+        "Name": "Jonathan Greenard ",
+        "rating": "82.5",
+        "position": "ED #52"
+      },
+      {
+        "Name": "Charles Omenihu ",
+        "rating": "76.7",
+        "position": "ED #94"
+      },
+      {
+        "Name": "Jacob Martin ",
+        "rating": "62.0",
+        "position": "ED #54"
+      },
+      {
+        "Name": "Whitney Mercilus ",
+        "rating": "61.5",
+        "position": "ED #59"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pff.com/nfl/teams/los-angeles-chargers/27/roster",
+    "name": "chargers",
+    "players": [
+      {
+        "Name": "Chase Daniel ",
+        "rating": "N/A",
+        "position": "QB #4"
+      },
+      {
+        "Name": "Easton Stick ",
+        "rating": "N/A",
+        "position": "QB #2"
+      },
+      {
+        "Name": "Justin Herbert ",
+        "rating": "84.3",
+        "position": "QB #10"
+      },
+      {
+        "Name": "Maurice Ffrench ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Austin Proehl ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Joe Reed ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Jason Moore ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Michael Bandy ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "K.J. Hill ",
+        "rating": "71.5",
+        "position": "WR #84"
+      },
+      {
+        "Name": "Mike Williams ",
+        "rating": "87.8",
+        "position": "WR #81"
+      },
+      {
+        "Name": "Jalen Guyton ",
+        "rating": "51.9",
+        "position": "WR #15"
+      },
+      {
+        "Name": "Josh Palmer ",
+        "rating": "62.1",
+        "position": "WR #5"
+      },
+      {
+        "Name": "Keenan Allen ",
+        "rating": "79.9",
+        "position": "WR #13"
+      },
+      {
+        "Name": "Darius Bradwell ",
+        "rating": "N/A",
+        "position": "HB #00"
+      },
+      {
+        "Name": "Joshua Kelley ",
+        "rating": "N/A",
+        "position": "HB #27"
+      },
+      {
+        "Name": "Austin Ekeler ",
+        "rating": "75.0",
+        "position": "HB #30"
+      },
+      {
+        "Name": "Justin Jackson ",
+        "rating": "64.9",
+        "position": "HB #22"
+      },
+      {
+        "Name": "Larry Rountree III ",
+        "rating": "41.7",
+        "position": "HB #35"
+      },
+      {
+        "Name": "Gabe Nabers ",
+        "rating": "65.5",
+        "position": "FB #40"
+      },
+      {
+        "Name": "Hunter Kampmoyer ",
+        "rating": "N/A",
+        "position": "TE #00"
+      },
+      {
+        "Name": "Jared Cook ",
+        "rating": "52.6",
+        "position": "TE #87"
+      },
+      {
+        "Name": "Stephen Anderson ",
+        "rating": "61.6",
+        "position": "TE #82"
+      },
+      {
+        "Name": "Donald Parham ",
+        "rating": "66.0",
+        "position": "TE #89"
+      },
+      {
+        "Name": "Tre' McKitty ",
+        "rating": "N/A",
+        "position": "TE #88"
+      },
+      {
+        "Name": "Nathan Gilliam ",
+        "rating": "N/A",
+        "position": "C #00"
+      },
+      {
+        "Name": "Corey Linsley ",
+        "rating": "64.0",
+        "position": "C #63"
+      },
+      {
+        "Name": "Scott Quessenberry ",
+        "rating": "N/A",
+        "position": "C #61"
+      },
+      {
+        "Name": "Ryan Hunter ",
+        "rating": "N/A",
+        "position": "G #00"
+      },
+      {
+        "Name": "Matt Feiler ",
+        "rating": "82.0",
+        "position": "G #71"
+      },
+      {
+        "Name": "Oday Aboushi ",
+        "rating": "64.0",
+        "position": "G #76"
+      },
+      {
+        "Name": "Brenden Jaimes ",
+        "rating": "N/A",
+        "position": "G #64"
+      },
+      {
+        "Name": "Michael Schofield III ",
+        "rating": "N/A",
+        "position": "T #72"
+      },
+      {
+        "Name": "Trey Pipkins ",
+        "rating": "55.0",
+        "position": "T #79"
+      },
+      {
+        "Name": "Storm Norton ",
+        "rating": "44.7",
+        "position": "T #74"
+      },
+      {
+        "Name": "Bryan Bulaga ",
+        "rating": "55.8",
+        "position": "T #75"
+      },
+      {
+        "Name": "Rashawn Slater ",
+        "rating": "71.3",
+        "position": "T #70"
+      },
+      {
+        "Name": "Kiondre Thomas ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Kemon Hall ",
+        "rating": "54.6",
+        "position": "CB #37"
+      },
+      {
+        "Name": "Brandon Facyson ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Michael Davis ",
+        "rating": "36.5",
+        "position": "CB #43"
+      },
+      {
+        "Name": "Ryan Smith ",
+        "rating": "N/A",
+        "position": "CB #23"
+      },
+      {
+        "Name": "Tevaughn Campbell ",
+        "rating": "77.0",
+        "position": "CB #20"
+      },
+      {
+        "Name": "Chris Harris Jr. ",
+        "rating": "76.6",
+        "position": "CB #25"
+      },
+      {
+        "Name": "Asante Samuel Jr. ",
+        "rating": "71.9",
+        "position": "CB #26"
+      },
+      {
+        "Name": "Ben DeLuca ",
+        "rating": "N/A",
+        "position": "S #00"
+      },
+      {
+        "Name": "Trey Marshall ",
+        "rating": "60.4",
+        "position": "S #36"
+      },
+      {
+        "Name": "Alohi Gilman ",
+        "rating": "77.3",
+        "position": "S #32"
+      },
+      {
+        "Name": "Nasir Adderley ",
+        "rating": "58.4",
+        "position": "S #24"
+      },
+      {
+        "Name": "Derwin James ",
+        "rating": "76.0",
+        "position": "S #33"
+      },
+      {
+        "Name": "Mark Webb ",
+        "rating": "45.3",
+        "position": "S #29"
+      },
+      {
+        "Name": "Cole Christiansen ",
+        "rating": "N/A",
+        "position": "LB #00"
+      },
+      {
+        "Name": "Damon Lloyd ",
+        "rating": "N/A",
+        "position": "LB #00"
+      },
+      {
+        "Name": "Drue Tranquill ",
+        "rating": "72.5",
+        "position": "LB #49"
+      },
+      {
+        "Name": "Amen Ogbongbemiga ",
+        "rating": "N/A",
+        "position": "LB #57"
+      },
+      {
+        "Name": "Kyzir White ",
+        "rating": "40.5",
+        "position": "LB #44"
+      },
+      {
+        "Name": "Nick Niemann ",
+        "rating": "N/A",
+        "position": "LB #31"
+      },
+      {
+        "Name": "Kenneth Murray ",
+        "rating": "49.0",
+        "position": "LB #9"
+      },
+      {
+        "Name": "Forrest Merrill ",
+        "rating": "N/A",
+        "position": "DI #00"
+      },
+      {
+        "Name": "Joe Gaziano ",
+        "rating": "60.9",
+        "position": "DI #92"
+      },
+      {
+        "Name": "Breiden Fehoko ",
+        "rating": "N/A",
+        "position": "DI #00"
+      },
+      {
+        "Name": "Jerry Tillery ",
+        "rating": "37.3",
+        "position": "DI #99"
+      },
+      {
+        "Name": "Justin Jones ",
+        "rating": "54.8",
+        "position": "DI #93"
+      },
+      {
+        "Name": "Christian Covington ",
+        "rating": "51.3",
+        "position": "N/A"
+      },
+      {
+        "Name": "Linval Joseph ",
+        "rating": "43.7",
+        "position": "DI #98"
+      },
+      {
+        "Name": "Emeke Egbule ",
+        "rating": "N/A",
+        "position": "ED #51"
+      },
+      {
+        "Name": "Kyler Fackrell ",
+        "rating": "58.6",
+        "position": "ED #52"
+      },
+      {
+        "Name": "Uchenna Nwosu ",
+        "rating": "39.8",
+        "position": "ED #42"
+      },
+      {
+        "Name": "Chris Rumph II ",
+        "rating": "66.4",
+        "position": "ED #94"
+      },
+      {
+        "Name": "Joey Bosa ",
+        "rating": "85.7",
+        "position": "ED #97"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pff.com/nfl/teams/pittsburgh-steelers/25/roster",
+    "name": "steelers",
+    "players": [
+      {
+        "Name": "Dwayne Haskins ",
+        "rating": "N/A",
+        "position": "QB #3"
+      },
+      {
+        "Name": "Joshua Dobbs ",
+        "rating": "N/A",
+        "position": "QB #5"
+      },
+      {
+        "Name": "Mason Rudolph ",
+        "rating": "N/A",
+        "position": "QB #2"
+      },
+      {
+        "Name": "Ben Roethlisberger ",
+        "rating": "55.5",
+        "position": "QB #7"
+      },
+      {
+        "Name": "Tyler Vaughns ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Steven Sims ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Rico Bussey Jr. ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Cody White ",
+        "rating": "67.4",
+        "position": "WR #15"
+      },
+      {
+        "Name": "JuJu Smith-Schuster ",
+        "rating": "65.2",
+        "position": "WR #19"
+      },
+      {
+        "Name": "Ray-Ray McCloud III ",
+        "rating": "49.0",
+        "position": "WR #14"
+      },
+      {
+        "Name": "Diontae Johnson ",
+        "rating": "71.3",
+        "position": "WR #18"
+      },
+      {
+        "Name": "Chase Claypool ",
+        "rating": "66.6",
+        "position": "WR #11"
+      },
+      {
+        "Name": "James Washington ",
+        "rating": "50.9",
+        "position": "WR #13"
+      },
+      {
+        "Name": "Jaylen Samuels ",
+        "rating": "N/A",
+        "position": "HB #00"
+      },
+      {
+        "Name": "Kalen Ballage ",
+        "rating": "N/A",
+        "position": "HB #29"
+      },
+      {
+        "Name": "Benny Snell Jr. ",
+        "rating": "50.2",
+        "position": "HB #24"
+      },
+      {
+        "Name": "Anthony McFarland Jr. ",
+        "rating": "N/A",
+        "position": "HB #26"
+      },
+      {
+        "Name": "Najee Harris ",
+        "rating": "57.8",
+        "position": "HB #22"
+      },
+      {
+        "Name": "Derek Watt ",
+        "rating": "57.3",
+        "position": "FB #44"
+      },
+      {
+        "Name": "Kevin Rader ",
+        "rating": "N/A",
+        "position": "TE #00"
+      },
+      {
+        "Name": "Trey Edmunds ",
+        "rating": "N/A",
+        "position": "TE #00"
+      },
+      {
+        "Name": "Zach Gentry ",
+        "rating": "54.8",
+        "position": "TE #81"
+      },
+      {
+        "Name": "Eric Ebron ",
+        "rating": "38.2",
+        "position": "TE #85"
+      },
+      {
+        "Name": "Pat Freiermuth ",
+        "rating": "72.2",
+        "position": "TE #88"
+      },
+      {
+        "Name": "J.C. Hassenauer ",
+        "rating": "63.4",
+        "position": "C #60"
+      },
+      {
+        "Name": "Kendrick Green ",
+        "rating": "55.0",
+        "position": "C #53"
+      },
+      {
+        "Name": "B.J. Finney ",
+        "rating": "58.5",
+        "position": "G #67"
+      },
+      {
+        "Name": "Rashaad Coward ",
+        "rating": "N/A",
+        "position": "G #79"
+      },
+      {
+        "Name": "Malcolm Pridgeon ",
+        "rating": "N/A",
+        "position": "G #00"
+      },
+      {
+        "Name": "John Leglue ",
+        "rating": "N/A",
+        "position": "G #00"
+      },
+      {
+        "Name": "Trai Turner ",
+        "rating": "65.7",
+        "position": "G #51"
+      },
+      {
+        "Name": "Kevin Dotson ",
+        "rating": "57.3",
+        "position": "G #69"
+      },
+      {
+        "Name": "Chaz Green ",
+        "rating": "N/A",
+        "position": "T #74"
+      },
+      {
+        "Name": "Zach Banner ",
+        "rating": "N/A",
+        "position": "T #72"
+      },
+      {
+        "Name": "Joe Haeg ",
+        "rating": "66.9",
+        "position": "T #71"
+      },
+      {
+        "Name": "Chukwuma Okorafor ",
+        "rating": "59.0",
+        "position": "T #76"
+      },
+      {
+        "Name": "Dan Moore Jr. ",
+        "rating": "60.5",
+        "position": "T #65"
+      },
+      {
+        "Name": "Ahkello Witherspoon ",
+        "rating": "34.8",
+        "position": "CB #25"
+      },
+      {
+        "Name": "Arthur Maulet ",
+        "rating": "76.6",
+        "position": "CB #35"
+      },
+      {
+        "Name": "Mark Gilbert ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "DeMarkus Acy ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Cameron Sutton ",
+        "rating": "70.7",
+        "position": "CB #20"
+      },
+      {
+        "Name": "James Pierre ",
+        "rating": "56.9",
+        "position": "CB #42"
+      },
+      {
+        "Name": "Justin Layne ",
+        "rating": "44.4",
+        "position": "CB #31"
+      },
+      {
+        "Name": "Joe Haden ",
+        "rating": "73.2",
+        "position": "CB #23"
+      },
+      {
+        "Name": "Tre Norwood ",
+        "rating": "51.8",
+        "position": "CB #21"
+      },
+      {
+        "Name": "Karl Joseph ",
+        "rating": "N/A",
+        "position": "S #00"
+      },
+      {
+        "Name": "Donovan Stiner ",
+        "rating": "N/A",
+        "position": "S #00"
+      },
+      {
+        "Name": "Minkah Fitzpatrick ",
+        "rating": "28.5",
+        "position": "S #39"
+      },
+      {
+        "Name": "Terrell Edmunds ",
+        "rating": "57.1",
+        "position": "S #34"
+      },
+      {
+        "Name": "Miles Killebrew ",
+        "rating": "N/A",
+        "position": "LB #28"
+      },
+      {
+        "Name": "Marcus Allen ",
+        "rating": "N/A",
+        "position": "LB #27"
+      },
+      {
+        "Name": "Ulysees Gilbert III ",
+        "rating": "N/A",
+        "position": "LB #54"
+      },
+      {
+        "Name": "Robert Spillane ",
+        "rating": "59.9",
+        "position": "LB #41"
+      },
+      {
+        "Name": "Devin Bush ",
+        "rating": "52.4",
+        "position": "LB #55"
+      },
+      {
+        "Name": "Joe Schobert ",
+        "rating": "55.2",
+        "position": "LB #93"
+      },
+      {
+        "Name": "Buddy Johnson ",
+        "rating": "N/A",
+        "position": "LB #45"
+      },
+      {
+        "Name": "Henry Mondeaux ",
+        "rating": "29.1",
+        "position": "DI #99"
+      },
+      {
+        "Name": "Daniel Archibong ",
+        "rating": "N/A",
+        "position": "DI #00"
+      },
+      {
+        "Name": "Tyson Alualu ",
+        "rating": "59.4",
+        "position": "DI #94"
+      },
+      {
+        "Name": "Chris Wormley ",
+        "rating": "65.3",
+        "position": "DI #95"
+      },
+      {
+        "Name": "Demarcus Christmas ",
+        "rating": "N/A",
+        "position": "DI #93"
+      },
+      {
+        "Name": "Carlos Davis ",
+        "rating": "58.7",
+        "position": "DI #73"
+      },
+      {
+        "Name": "Isaiah Buggs ",
+        "rating": "82.7",
+        "position": "DI #96"
+      },
+      {
+        "Name": "Isaiahh Loudermilk ",
+        "rating": "48.8",
+        "position": "DI #92"
+      },
+      {
+        "Name": "Stephon Tuitt ",
+        "rating": "N/A",
+        "position": "DI #91"
+      },
+      {
+        "Name": "Cameron Heyward ",
+        "rating": "93.2",
+        "position": "DI #97"
+      },
+      {
+        "Name": "Delontae Scott ",
+        "rating": "N/A",
+        "position": "ED #00"
+      },
+      {
+        "Name": "Christian Miller ",
+        "rating": "N/A",
+        "position": "ED #00"
+      },
+      {
+        "Name": "Derrek Tuszka ",
+        "rating": "64.7",
+        "position": "ED #48"
+      },
+      {
+        "Name": "Christian Kuntz ",
+        "rating": "N/A",
+        "position": "ED #46"
+      },
+      {
+        "Name": "Melvin Ingram III ",
+        "rating": "71.1",
+        "position": "ED #8"
+      },
+      {
+        "Name": "Alex Highsmith ",
+        "rating": "75.6",
+        "position": "ED #56"
+      },
+      {
+        "Name": "T.J. Watt ",
+        "rating": "91.8",
+        "position": "ED #90"
+      },
+      {
+        "Name": "Taco Charlton ",
+        "rating": "N/A",
+        "position": "ED #00"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pff.com/nfl/teams/baltimore-ravens/3/roster",
+    "name": "ravens",
+    "players": [
+      {
+        "Name": "Trace McSorley ",
+        "rating": "N/A",
+        "position": "QB #00"
+      },
+      {
+        "Name": "Tyler Huntley ",
+        "rating": "N/A",
+        "position": "QB #2"
+      },
+      {
+        "Name": "Lamar Jackson ",
+        "rating": "80.0",
+        "position": "QB #8"
+      },
+      {
+        "Name": "Jaylon Moore ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Binjimen Victor ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Sammy Watkins ",
+        "rating": "71.6",
+        "position": "WR #14"
+      },
+      {
+        "Name": "James Proche ",
+        "rating": "71.3",
+        "position": "WR #11"
+      },
+      {
+        "Name": "Devin Duvernay ",
+        "rating": "54.3",
+        "position": "WR #13"
+      },
+      {
+        "Name": "Miles Boykin ",
+        "rating": "N/A",
+        "position": "WR #80"
+      },
+      {
+        "Name": "Marquise Brown ",
+        "rating": "80.4",
+        "position": "WR #5"
+      },
+      {
+        "Name": "Tylan Wallace ",
+        "rating": "56.8",
+        "position": "WR #16"
+      },
+      {
+        "Name": "Rashod Bateman ",
+        "rating": "N/A",
+        "position": "WR #12"
+      },
+      {
+        "Name": "Latavius Murray ",
+        "rating": "65.9",
+        "position": "HB #28"
+      },
+      {
+        "Name": "Justice Hill ",
+        "rating": "N/A",
+        "position": "HB #00"
+      },
+      {
+        "Name": "Devonta Freeman ",
+        "rating": "61.7",
+        "position": "HB #33"
+      },
+      {
+        "Name": "Le'Veon Bell ",
+        "rating": "N/A",
+        "position": "HB #17"
+      },
+      {
+        "Name": "Ty'Son Williams ",
+        "rating": "61.5",
+        "position": "HB #34"
+      },
+      {
+        "Name": "J.K. Dobbins ",
+        "rating": "N/A",
+        "position": "HB #27"
+      },
+      {
+        "Name": "Gus Edwards ",
+        "rating": "N/A",
+        "position": "HB #35"
+      },
+      {
+        "Name": "Nate McCrary ",
+        "rating": "N/A",
+        "position": "HB #00"
+      },
+      {
+        "Name": "Patrick Ricard ",
+        "rating": "55.6",
+        "position": "FB #42"
+      },
+      {
+        "Name": "Eric Tomlinson ",
+        "rating": "75.2",
+        "position": "TE #85"
+      },
+      {
+        "Name": "Tony Poljan ",
+        "rating": "N/A",
+        "position": "TE #00"
+      },
+      {
+        "Name": "Josh Oliver ",
+        "rating": "59.9",
+        "position": "TE #84"
+      },
+      {
+        "Name": "Mark Andrews ",
+        "rating": "73.8",
+        "position": "TE #89"
+      },
+      {
+        "Name": "Nick Boyle ",
+        "rating": "N/A",
+        "position": "TE #86"
+      },
+      {
+        "Name": "Bradley Bozeman ",
+        "rating": "81.7",
+        "position": "C #77"
+      },
+      {
+        "Name": "Kevin Zeitler ",
+        "rating": "61.5",
+        "position": "G #70"
+      },
+      {
+        "Name": "Tyre Phillips ",
+        "rating": "46.8",
+        "position": "G #74"
+      },
+      {
+        "Name": "Ben Powers ",
+        "rating": "72.4",
+        "position": "G #72"
+      },
+      {
+        "Name": "Ben Cleveland ",
+        "rating": "66.7",
+        "position": "G #66"
+      },
+      {
+        "Name": "Andre Smith ",
+        "rating": "N/A",
+        "position": "T #76"
+      },
+      {
+        "Name": "Adrian Ealy ",
+        "rating": "N/A",
+        "position": "T #00"
+      },
+      {
+        "Name": "Trystan Colon-Castillo ",
+        "rating": "76.0",
+        "position": "C #63"
+      },
+      {
+        "Name": "Ja'Wuan James ",
+        "rating": "N/A",
+        "position": "T #60"
+      },
+      {
+        "Name": "Patrick Mekari ",
+        "rating": "65.5",
+        "position": "T #65"
+      },
+      {
+        "Name": "Alejandro Villanueva ",
+        "rating": "59.6",
+        "position": "T #78"
+      },
+      {
+        "Name": "David Sharpe ",
+        "rating": "N/A",
+        "position": "T #00"
+      },
+      {
+        "Name": "Jaryd Jones-Smith ",
+        "rating": "N/A",
+        "position": "T #00"
+      },
+      {
+        "Name": "Ronnie Stanley ",
+        "rating": "48.9",
+        "position": "T #79"
+      },
+      {
+        "Name": "Kevon Seymour ",
+        "rating": "N/A",
+        "position": "CB #38"
+      },
+      {
+        "Name": "Chris Westry ",
+        "rating": "76.7",
+        "position": "CB #30"
+      },
+      {
+        "Name": "Khalil Dorsey ",
+        "rating": "N/A",
+        "position": "CB #31"
+      },
+      {
+        "Name": "Marcus Peters ",
+        "rating": "N/A",
+        "position": "CB #24"
+      },
+      {
+        "Name": "Iman Lewis-Marshall ",
+        "rating": "N/A",
+        "position": "CB #37"
+      },
+      {
+        "Name": "Anthony Averett ",
+        "rating": "60.6",
+        "position": "CB #23"
+      },
+      {
+        "Name": "Ar'Darius Washington ",
+        "rating": "60.0",
+        "position": "CB #29"
+      },
+      {
+        "Name": "Marlon Humphrey ",
+        "rating": "70.2",
+        "position": "CB #44"
+      },
+      {
+        "Name": "Linden Stephens ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Tavon Young ",
+        "rating": "46.2",
+        "position": "CB #25"
+      },
+      {
+        "Name": "Anthony Levine ",
+        "rating": "N/A",
+        "position": "S #41"
+      },
+      {
+        "Name": "Geno Stone ",
+        "rating": "63.5",
+        "position": "S #26"
+      },
+      {
+        "Name": "Chuck Clark ",
+        "rating": "77.9",
+        "position": "S #36"
+      },
+      {
+        "Name": "DeShon Elliott ",
+        "rating": "62.0",
+        "position": "S #32"
+      },
+      {
+        "Name": "Jimmy Smith ",
+        "rating": "40.2",
+        "position": "CB #22"
+      },
+      {
+        "Name": "Jordan Richards ",
+        "rating": "N/A",
+        "position": "S #00"
+      },
+      {
+        "Name": "Brandon Stephens ",
+        "rating": "49.4",
+        "position": "S #21"
+      },
+      {
+        "Name": "Josh Bynes ",
+        "rating": "52.6",
+        "position": "LB #56"
+      },
+      {
+        "Name": "Otaro Alaka ",
+        "rating": "N/A",
+        "position": "LB #51"
+      },
+      {
+        "Name": "Kristian Welch ",
+        "rating": "60.0",
+        "position": "LB #57"
+      },
+      {
+        "Name": "L.J. Fort ",
+        "rating": "N/A",
+        "position": "LB #3"
+      },
+      {
+        "Name": "Malik Harrison ",
+        "rating": "30.1",
+        "position": "LB #40"
+      },
+      {
+        "Name": "Chris Board ",
+        "rating": "53.0",
+        "position": "LB #49"
+      },
+      {
+        "Name": "Patrick Queen ",
+        "rating": "37.1",
+        "position": "LB #6"
+      },
+      {
+        "Name": "Kahlil McKenzie ",
+        "rating": "69.1",
+        "position": "DI #69"
+      },
+      {
+        "Name": "Justin Ellis ",
+        "rating": "60.4",
+        "position": "DI #71"
+      },
+      {
+        "Name": "Chris Smith ",
+        "rating": "N/A",
+        "position": "DI #00"
+      },
+      {
+        "Name": "Aaron Crawford ",
+        "rating": "N/A",
+        "position": "DI #00"
+      },
+      {
+        "Name": "Derek Wolfe ",
+        "rating": "N/A",
+        "position": "DI #95"
+      },
+      {
+        "Name": "Broderick Washington Jr. ",
+        "rating": "59.8",
+        "position": "DI #96"
+      },
+      {
+        "Name": "Justin Madubuike ",
+        "rating": "47.9",
+        "position": "DI #92"
+      },
+      {
+        "Name": "Calais Campbell ",
+        "rating": "81.6",
+        "position": "DI #93"
+      },
+      {
+        "Name": "Xavier Kelly ",
+        "rating": "N/A",
+        "position": "DI #91"
+      },
+      {
+        "Name": "Brandon Williams ",
+        "rating": "48.3",
+        "position": "DI #98"
+      },
+      {
+        "Name": "Pernell McPhee ",
+        "rating": "52.9",
+        "position": "ED #90"
+      },
+      {
+        "Name": "Tyus Bowser ",
+        "rating": "52.1",
+        "position": "LB #54"
+      },
+      {
+        "Name": "Justin Houston ",
+        "rating": "79.0",
+        "position": "ED #50"
+      },
+      {
+        "Name": "Jaylon Ferguson ",
+        "rating": "65.5",
+        "position": "ED #45"
+      },
+      {
+        "Name": "Daelin Hayes ",
+        "rating": "55.0",
+        "position": "ED #59"
+      },
+      {
+        "Name": "Odafe Oweh ",
+        "rating": "79.1",
+        "position": "ED #99"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pff.com/nfl/teams/indianapolis-colts/14/roster",
+    "name": "colts",
+    "players": [
+      {
+        "Name": "Brett Hundley ",
+        "rating": "N/A",
+        "position": "QB #5"
+      },
+      {
+        "Name": "Carson Wentz ",
+        "rating": "68.5",
+        "position": "QB #2"
+      },
+      {
+        "Name": "Sam Ehlinger ",
+        "rating": "N/A",
+        "position": "QB #4"
+      },
+      {
+        "Name": "Jacob Eason ",
+        "rating": "29.6",
+        "position": "QB #9"
+      },
+      {
+        "Name": "Keke Coutee ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "De'Michael Harris ",
+        "rating": "58.5",
+        "position": "WR #12"
+      },
+      {
+        "Name": "Tarik Black ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "Quartney Davis ",
+        "rating": "N/A",
+        "position": "WR #00"
+      },
+      {
+        "Name": "J.J. Nelson ",
+        "rating": "N/A",
+        "position": "WR #15"
+      },
+      {
+        "Name": "T.Y. Hilton ",
+        "rating": "N/A",
+        "position": "WR #13"
+      },
+      {
+        "Name": "Zach Pascal ",
+        "rating": "57.7",
+        "position": "WR #14"
+      },
+      {
+        "Name": "Ashton Dulin ",
+        "rating": "58.6",
+        "position": "WR #16"
+      },
+      {
+        "Name": "Dezmon Patmon ",
+        "rating": "N/A",
+        "position": "WR #10"
+      },
+      {
+        "Name": "Parris Campbell ",
+        "rating": "56.9",
+        "position": "WR #1"
+      },
+      {
+        "Name": "Michael Pittman Jr. ",
+        "rating": "72.7",
+        "position": "WR #11"
+      },
+      {
+        "Name": "Michael Strachan ",
+        "rating": "62.3",
+        "position": "WR #17"
+      },
+      {
+        "Name": "Deon Jackson ",
+        "rating": "N/A",
+        "position": "HB #00"
+      },
+      {
+        "Name": "Marlon Mack ",
+        "rating": "53.8",
+        "position": "HB #25"
+      },
+      {
+        "Name": "Nyheim Hines ",
+        "rating": "67.9",
+        "position": "HB #21"
+      },
+      {
+        "Name": "Jordan Wilkins ",
+        "rating": "N/A",
+        "position": "HB #20"
+      },
+      {
+        "Name": "Jonathan Taylor ",
+        "rating": "64.1",
+        "position": "HB #28"
+      },
+      {
+        "Name": "Farrod Green ",
+        "rating": "N/A",
+        "position": "TE #00"
+      },
+      {
+        "Name": "Mo Alie-Cox ",
+        "rating": "56.1",
+        "position": "TE #81"
+      },
+      {
+        "Name": "Jack Doyle ",
+        "rating": "68.1",
+        "position": "TE #84"
+      },
+      {
+        "Name": "David Wells ",
+        "rating": "N/A",
+        "position": "TE #00"
+      },
+      {
+        "Name": "Kylen Granson ",
+        "rating": "52.1",
+        "position": "TE #83"
+      },
+      {
+        "Name": "Joey Hunt ",
+        "rating": "N/A",
+        "position": "C #68"
+      },
+      {
+        "Name": "Danny Pinter ",
+        "rating": "N/A",
+        "position": "C #63"
+      },
+      {
+        "Name": "Ryan Kelly ",
+        "rating": "68.2",
+        "position": "C #78"
+      },
+      {
+        "Name": "Anthony Coyle ",
+        "rating": "N/A",
+        "position": "G #00"
+      },
+      {
+        "Name": "Carter O'Donnell ",
+        "rating": "N/A",
+        "position": "G #00"
+      },
+      {
+        "Name": "Chris Reed ",
+        "rating": "68.6",
+        "position": "G #62"
+      },
+      {
+        "Name": "Quenton Nelson ",
+        "rating": "69.3",
+        "position": "G #56"
+      },
+      {
+        "Name": "Mark Glowinski ",
+        "rating": "43.4",
+        "position": "G #64"
+      },
+      {
+        "Name": "Will Fries ",
+        "rating": "N/A",
+        "position": "G #75"
+      },
+      {
+        "Name": "Matt Pryor ",
+        "rating": "66.5",
+        "position": "T #69"
+      },
+      {
+        "Name": "Sam Tevi ",
+        "rating": "N/A",
+        "position": "T #71"
+      },
+      {
+        "Name": "Julie'n Davenport ",
+        "rating": "47.4",
+        "position": "T #73"
+      },
+      {
+        "Name": "Braden Smith ",
+        "rating": "60.8",
+        "position": "T #72"
+      },
+      {
+        "Name": "Eric Fisher ",
+        "rating": "54.1",
+        "position": "T #79"
+      },
+      {
+        "Name": "Chris Wilcox ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Marvell Tell III ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Anthony Chesley ",
+        "rating": "N/A",
+        "position": "CB #47"
+      },
+      {
+        "Name": "BoPete Keyes ",
+        "rating": "N/A",
+        "position": "CB #33"
+      },
+      {
+        "Name": "Nick Nelson ",
+        "rating": "N/A",
+        "position": "CB #00"
+      },
+      {
+        "Name": "Xavier Rhodes ",
+        "rating": "41.2",
+        "position": "CB #27"
+      },
+      {
+        "Name": "T.J. Carrie ",
+        "rating": "58.8",
+        "position": "CB #38"
+      },
+      {
+        "Name": "Rock Ya-Sin ",
+        "rating": "73.2",
+        "position": "CB #26"
+      },
+      {
+        "Name": "Isaiah Rodgers ",
+        "rating": "43.2",
+        "position": "CB #34"
+      },
+      {
+        "Name": "Kenny Moore II ",
+        "rating": "48.7",
+        "position": "CB #23"
+      },
+      {
+        "Name": "Andrew Sendejo ",
+        "rating": "69.3",
+        "position": "S #42"
+      },
+      {
+        "Name": "George Odum ",
+        "rating": "60.0",
+        "position": "S #30"
+      },
+      {
+        "Name": "Julian Blackmon ",
+        "rating": "64.4",
+        "position": "S #32"
+      },
+      {
+        "Name": "Khari Willis ",
+        "rating": "41.1",
+        "position": "S #37"
+      },
+      {
+        "Name": "Jordan Lucas ",
+        "rating": "N/A",
+        "position": "S #00"
+      },
+      {
+        "Name": "Ibraheim Campbell ",
+        "rating": "N/A",
+        "position": "S #36"
+      },
+      {
+        "Name": "Malik Jefferson ",
+        "rating": "N/A",
+        "position": "LB #00"
+      },
+      {
+        "Name": "Skai Moore ",
+        "rating": "N/A",
+        "position": "LB #00"
+      },
+      {
+        "Name": "Jordan Glasgow ",
+        "rating": "61.4",
+        "position": "LB #59"
+      },
+      {
+        "Name": "Bobby Okereke ",
+        "rating": "53.1",
+        "position": "LB #58"
+      },
+      {
+        "Name": "Zaire Franklin ",
+        "rating": "50.3",
+        "position": "LB #44"
+      },
+      {
+        "Name": "Darius Leonard ",
+        "rating": "70.1",
+        "position": "LB #53"
+      },
+      {
+        "Name": "Matthew Adams ",
+        "rating": "59.9",
+        "position": "LB #49"
+      },
+      {
+        "Name": "Antwaun Woods ",
+        "rating": "54.3",
+        "position": "DI #96"
+      },
+      {
+        "Name": "Taylor Stallworth ",
+        "rating": "39.4",
+        "position": "DI #95"
+      },
+      {
+        "Name": "Robert Windsor ",
+        "rating": "N/A",
+        "position": "DI #93"
+      },
+      {
+        "Name": "Chris Williams ",
+        "rating": "55.5",
+        "position": "DI #66"
+      },
+      {
+        "Name": "DeForest Buckner ",
+        "rating": "66.9",
+        "position": "DI #99"
+      },
+      {
+        "Name": "Grover Stewart ",
+        "rating": "65.8",
+        "position": "DI #90"
+      },
+      {
+        "Name": "Dayo Odeyingbo ",
+        "rating": "N/A",
+        "position": "ED #54"
+      },
+      {
+        "Name": "Kameron Cline ",
+        "rating": "N/A",
+        "position": "ED #00"
+      },
+      {
+        "Name": "Isaac Rochell ",
+        "rating": "N/A",
+        "position": "ED #91"
+      },
+      {
+        "Name": "Al-Quadin Muhammad ",
+        "rating": "66.7",
+        "position": "ED #97"
+      },
+      {
+        "Name": "Ben Banogu ",
+        "rating": "60.2",
+        "position": "ED #52"
+      },
+      {
+        "Name": "E.J. Speed ",
+        "rating": "64.6",
+        "position": "ED #45"
+      },
+      {
+        "Name": "Tyquan Lewis ",
+        "rating": "79.5",
+        "position": "ED #94"
+      },
+      {
+        "Name": "Kemoko Turay ",
+        "rating": "49.5",
+        "position": "ED #57"
+      },
+      {
+        "Name": "Kwity Paye ",
+        "rating": "74.2",
+        "position": "ED #51"
+      }
+    ]
+  }
+]
