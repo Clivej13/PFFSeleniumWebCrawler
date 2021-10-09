@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
+from chromedriver_py import binary_path
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -8,28 +8,18 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 
-def driver_test():
-    driver = webdriver.Chrome(ChromeDriverManager().install())
-    url = "https://www.pff.com/nfl/players/tyrod-taylor/6332"
-    driver.get(url)
-    grade_xpath = "//*[@id=\"main\"]/div[3]/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/div/div[1]/div/div/div[3]"
-    rating = driver.find_element_by_xpath(grade_xpath).text
-    print(str(rating))
-    driver.close()
-
-
 def grab_player_by_team(team_url):
     options = Options()
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
-    driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+    driver = webdriver.Chrome(executable_path=binary_path, options=options)
     driver.get(team_url)
     defense_table = "//*[@id=\"main\"]/div[3]/div/div/div[3]/div[1]/div/div/div/div/div[1]/div[2]/div/div[1]/div/div/div"
     offense_table = "//*[@id=\"main\"]/div[3]/div/div/div[3]/div[2]/div/div/div/div/div[1]/div[2]/div/div[1]/div/div/div"
     list_of_players = grab_player_by_table(defense_table, driver) + grab_player_by_table(offense_table, driver)
     print(str(list_of_players))
-    return list_of_players
     driver.close()
+    return list_of_players
 
 
 def get_player_attribute(driver, player_attribute_xpath):
