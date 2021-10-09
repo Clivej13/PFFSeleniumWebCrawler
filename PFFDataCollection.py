@@ -12,7 +12,7 @@ def grab_player_by_team(team_url):
     options = Options()
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
-    driver = webdriver.Chrome(executable_path=binary_path, options=options)
+    driver = webdriver.Chrome(executable_path="/usr/lib/chromium-browser/chromedriver", options=options)
     driver.get(team_url)
     defense_table = "//*[@id=\"main\"]/div[3]/div/div/div[3]/div[1]/div/div/div/div/div[1]/div[2]/div/div[1]/div/div/div"
     offense_table = "//*[@id=\"main\"]/div[3]/div/div/div[3]/div[2]/div/div/div/div/div[1]/div[2]/div/div[1]/div/div/div"
