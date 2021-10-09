@@ -1,4 +1,4 @@
-#!/usr/bin/env python 
+#! /usr/bin/env python3
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
