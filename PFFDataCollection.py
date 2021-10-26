@@ -1,6 +1,8 @@
 #! /usr/bin/env python3
+import logging
+import sys
+from logging.handlers import RotatingFileHandler
 from selenium import webdriver
-from chromedriver_py import binary_path
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -8,16 +10,36 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 
+def create_rotating_log(path):
+    logger = logging.getLogger("Rotating Log")
+    logger.setLevel(logging.INFO)
+    handler = RotatingFileHandler(path, maxBytes=40960, backupCount=8)
+    logger.addHandler(handler)
+    logging.basicConfig(
+        format='%(asctime)s %(levelname)-8s %(message)s',
+        level=logging.INFO,
+        datefmt='%Y-%m-%d %H:%M:%S')
+    return logger
+
+
 def grab_player_by_team(team_url):
+    log_file = "PFFDataCollection.log"
+    logger = create_rotating_log(log_file)
     options = Options()
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
-    driver = webdriver.Chrome(executable_path="/usr/lib/chromium-browser/chromedriver", options=options)
+    if sys.platform == 'win32':
+        executable_path = "C:\\tools\\chromedriver"
+    else:
+        executable_path = "/usr/lib/chromium-browser/chromedriver"
+    try:
+        driver = webdriver.Chrome(executable_path=executable_path, options=options)
+    except Exception as e:
+        logger.info(str(e))
     driver.get(team_url)
     defense_table = "//*[@id=\"main\"]/div[3]/div/div/div[3]/div[1]/div/div/div/div/div[1]/div[2]/div/div[1]/div/div/div"
     offense_table = "//*[@id=\"main\"]/div[3]/div/div/div[3]/div[2]/div/div/div/div/div[1]/div[2]/div/div[1]/div/div/div"
-    list_of_players = grab_player_by_table(defense_table, driver) + grab_player_by_table(offense_table, driver)
-    print(str(list_of_players))
+    list_of_players = grab_player_by_table(defense_table, driver, logger) + grab_player_by_table(offense_table, driver, logger)
     driver.close()
     return list_of_players
 
@@ -32,8 +54,7 @@ def get_player_attribute(driver, player_attribute_xpath):
         pass
 
 
-
-def grab_player_by_table(table_xpath, driver):
+def grab_player_by_table(table_xpath, driver, logger):
     close_xpath = "/html/body/div[2]/div/div/button"
     player_attribute_xpaths = [{"attribute_name": "rating",
                                 "location": "/html/body/div[2]/div/div/div/div[2]/div[1]/div["
@@ -61,10 +82,9 @@ def grab_player_by_table(table_xpath, driver):
                         player_info[attribute_xpath["attribute_name"]] = "N/A"
                 driver.find_element_by_xpath(close_xpath).click()
                 list_of_players.append(player_info)
-                print(player_info)
                 player_number = player_number + 1
             except Exception as e:
-                print(str(e))
+                logger.info(str(e))
                 not_last_player = False
     return list_of_players
 
